@@ -92,10 +92,10 @@ cd qr_project
 python main.py
 ```
 
-3. Modify input inside `main.py`:
+3. Add text string in the input
 
-```python
-data = "HELLO"
+```
+Enter Text:"HELLO"
 ```
 
 ---
